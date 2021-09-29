@@ -1,6 +1,6 @@
 - Hi, I’m @Astratta
 
-- I'm a student of cyber security trying to learn bent functions, my goal is to implement it someway in the AES cypher
+- I'm a student of cyber security trying to learn bent functions, my goal is to implement it someway in the AES cypher.
   If you know any content about bent function, pls tell me if you can.
 
 - How to reach me:
