@@ -1,8 +1,8 @@
-- Hi, I’m @Astratta
+- Olá, me chamo Felipe de Andrade.
 
-- I'm a student of cyber security, I code too.
+- Sou analista de tecnologia na Yssy com foco em cyber security.
 
-- How to reach me:
+- Como me encontrar:
     Email: felipe.astratta@gmail.com
     Discord: Astratta#2419
 
