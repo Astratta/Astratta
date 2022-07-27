@@ -1,6 +1,6 @@
 - Olá, me chamo Felipe de Andrade.
 
-- Sou analista de tecnologia na Yssy com foco em cyber security.
+- Sou analista de tecnologia com foco em cyber security.
 
 - Como me encontrar:
     Email: felipe.astratta@gmail.com
