@@ -1,6 +1,4 @@
-- Olá, me chamo Felipe de Andrade.
-
-- Sou analista de tecnologia com foco em cyber security.
+Analista de Segurança, Security Automation, DevSecOps.
 
 - Como me encontrar:
     Email: felipe.astratta@gmail.com
